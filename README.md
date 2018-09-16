@@ -1,4 +1,4 @@
-# Baylor Git Workshop
+﻿# Git Workshop
 
 This is some sample content that we'll want to change.
 
